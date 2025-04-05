@@ -1,0 +1,12 @@
+.box {
+    border: solid black 2px;
+    background-color: rgb(236, 217, 192);
+    padding: 10px;
+}
+
+.img {
+    float: right;
+    height: 170px;
+    width: 150px;
+    padding: 10px;
+}

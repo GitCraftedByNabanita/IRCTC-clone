@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    position:relative;
+    height: 100vh;
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+}
+
+#boxA {
+    background-color: red;
+    left: 200px;
+    top: 200px;
+}
+
+#boxB {
+    background-color: blueviolet;
+    left: calc(200px + 25px - 30px - 25px);
+    top: calc(200px + 25px - 30px - 25px);
+}
+
+#boxC {
+    background-color: orange;
+    left: calc(200px + 25px + 30px - 25px);
+    top: calc(200px + 25px - 30px - 25px);
+}
+
+#boxD {
+    background-color: black;
+    left: calc(200px + 25px - 30px - 25px);
+    top: calc(200px + 25px + 30px - 25px);
+}
+
+#boxE {
+    background-color: cadetblue;
+    left: calc(200px + 25px  );
+    top: calc(200px + 25px );
+}

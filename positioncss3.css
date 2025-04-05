@@ -1,0 +1,12 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

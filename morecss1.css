@@ -1,0 +1,21 @@
+.box {
+    border: 2px solid black;
+    height: 400px;
+    width: 35%;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box-img {
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.p {
+    margin-top: 15px;
+}

@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    border: border-box;
+}
+
+.navbar {
+    height: 60px;
+    background-color: rgb(19, 157, 211);
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* text-decoration: underline; */
+}
+
+.items1 {
+    border-style:dashed;
+}
+
+.k {
+    border-style: dotted;
+}
+
+.items3 {
+    border-style: double;
+}
+
+.items4 {
+    border-style: groove;
+}
+
+.items5 {
+    border-style: initial;
+}

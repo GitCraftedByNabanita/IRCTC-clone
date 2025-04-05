@@ -1,0 +1,21 @@
+.body {
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.heading {
+    font-size: 5rem;
+    text-align: center;
+}
+
+.boximg {
+    height: 100px;
+    background-size: cover;
+    background-color: bisque;
+    padding: 20px;
+}
+
+.paragraph {
+    font-family: "Montserrat", sans-serif;
+}
